@@ -1,0 +1,69 @@
+body{
+	margin:  0;
+	padding: 0;
+	background: url(estetik.png);
+	background-size: cover;
+	font-family: Times New Roman;
+}
+#main{
+	width: 380px;
+	height: 380px;
+	margin: 0 auto;
+	padding-top: 4px;
+	padding-left: 10px;
+	padding-right: 1px;
+	background-color: rgba(210, 180, 140, 0.6);
+	border-radius: 6px;
+	-moz-border-radius: 6px;
+	-webkit-border-radius: 6px;
+	margin-top: 150px;
+	
+}
+img{
+	border: 4px darkgrey solid;
+	height: 80px;
+	width: 80px;
+	border-radius: 50px;
+	margin-left: 150px;
+	position: absolute;
+	margin-top: -60px;
+	background-color: darkgrey;
+}
+
+h1{
+	font-family: 'hello';
+	color: black;
+	text-align: center;
+	font-size: 39px;
+	margin-top: 20px;
+	padding: 10px;
+}
+
+form input{
+	font-family: Times New Roman;
+	margin: 5px;
+	padding: 8px;
+	width: 230px;
+	margin-left: 60px;
+	font-size: 15px;
+}
+form button{
+	margin: 12px;
+	padding: 5px;
+	background-color: #755553;
+	border: 1px;
+	border-radius: 12px;
+	width: 100px;
+	height: 35px;
+	color: white;
+	margin-left: 142px;
+	cursor: pointer;
+	font-size: 17px;
+	font-family: Times New Roman;
+}
+div p,a{
+	color: black;
+	text-align: center;
+	font-family: Times New Roman;
+	margin-top: 5px;
+}

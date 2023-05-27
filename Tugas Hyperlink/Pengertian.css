@@ -1,0 +1,47 @@
+h1{
+    font-family: hello;
+    position: relative;
+    margin: right;
+    text-align: center;
+    font-size: 50px;
+    text-shadow: darkgrey;
+}
+
+body{
+    text-align: center;
+    background-size: 1300px;
+    width: 70%;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 40px;
+    background-image: url(dark.png);
+    color: white;
+}
+
+h2{
+    text-align: left;
+    font-size: 30px;
+    font-family: adelia;
+
+}
+
+p{
+    text-align: left;
+    font-size: 17px;
+    font-family: comic sans ms;
+    text-indent: 40px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+h3{
+    text-align: left;
+    font-size: 30px;
+    font-family: adelia;
+}
+
+h4{
+    font-family: Arial Narrow;
+    text-align: left;
+    font-size: 20px;
+}

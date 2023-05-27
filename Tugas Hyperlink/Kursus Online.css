@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box; 
+}
+
+body {
+  font-family: Consolas;
+  margin: 0;
+  background-color: gainsboro;
+}
+
+.header {
+  padding: 60px;
+  text-align: left;
+  background: #964B00;
+  color: white;
+  padding-top: 30px;
+
+}
+
+.header h1 {
+  font-size: 45px;
+  font-family: comic sans ms;
+  text-align: center;
+}
+
+.navbar{
+    background-color: #755553;
+    overflow: hidden;
+    position:sticky;
+    width: 100%;
+    top: 0;
+    position:sticky;
+
+}
+.navbar a{
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 18px;
+}
+.navbar a:hover{
+    background-color: #a3a3a3;
+    color: #3f3f3f;
+}
+
+p{
+  font-size: 18px;
+  font-family: monospace;
+  padding-left: 50px;
+  padding-right: 60px;
+  text-indent: 40px;
+  line-height: 23px;
+}
+
+h2{
+  text-align: center;
+  font-size: 30px;
+  font-family: Consolas;
+}
